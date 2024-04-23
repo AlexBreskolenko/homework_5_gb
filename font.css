@@ -1,1 +1,9 @@
+@font-face {
+  font-family: "Gilroy-Bold";
+  src: url(./font/gilroy-bold.woff2);
+}
 
+@font-face {
+  font-family: "Gilroy-Regular";
+  src: url(./font/gilroy-regular.woff2);
+}
